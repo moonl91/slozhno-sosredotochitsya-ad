@@ -65,6 +65,7 @@
   content: "";
   display: inline-block;
   block-size: 10px;
+  margin-inline-start: 10px;
   inline-size: 10px;
   border-radius: 50%;
   box-shadow: 0 0 4px 2px var(--accent-color);
