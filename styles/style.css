@@ -148,8 +148,8 @@
   color: var(--title-color);
 }
 .content__card {
-  display: flex;
-  flex-direction: column;
+  display:  flex;
+  flex-direction:  column;
   gap: 10px;
 }
 
@@ -347,7 +347,7 @@
     outline-offset: 2px;
   }
 
-  .content__gallery{
+  .content__gallery {
     gap: 20px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, auto);
